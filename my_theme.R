@@ -1,4 +1,4 @@
-my_theme <- theme_classic()+
+my_theme_clean <- theme_classic()+
   theme(axis.ticks.length = unit(.3, "cm"))+
   theme(axis.title.x = element_text(size = 25))+
   theme(axis.text.x  = element_text(size = 20))+
