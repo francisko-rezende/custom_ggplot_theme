@@ -1,4 +1,4 @@
-# creates an object containing a ggplot theme
+# creates an object containing a ggplot theme.
 
 my_theme_clean <- theme_classic()+
   theme(axis.ticks.length = unit(.3, "cm"))+
